@@ -5,7 +5,7 @@ My name is Jake, Master's in Computer Science (University of York) with 6 years�
 
 - 🌱 I’m currently learning how to build databases and data pipelines in SQL, with the goal of helping doctors and nurses streamline their daily workload.
 
-- 🤔 I am seeking a full time position as a data analyst or a data scientist
+- 🤔 I am seeking a full time position as a Data Analyst or a Data Scientist.
 
 <!--
 **JakeWellian/jakewellian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
